@@ -1,7 +1,5 @@
 # Summary
-* [前言](README.md)
-* 学科类别如下
-* 计算机
-* 经济学
-    * 当生活遇见经济学
-* 生活类
+* [简介](README.md)
+* [计算机](Computer/chapter1/test.md)
+* [经济学](Economy/chapter1/test.md)
+* [生活类](Life/chapter1/test.md)
